@@ -14,5 +14,3 @@ torchmetrics==0.8.2
 torchvision==0.9.0+cu111
 tornado==6.1
 tqdm==4.65.0
-
-Process finished with exit code 0
